@@ -44,7 +44,7 @@
 /* badges */
 #chat .chat-main .isOwner .username::before
 {
-    content:       url(https://jaganmati.github.io/icons/hostpink.png);
+    content:       url(https://jaganmati.github.io/icons/owner.png);
     position:      relative;
     top:           4px;
     padding-right: 2px;
@@ -52,7 +52,7 @@
 
 #chat .chat-main .isCo-owner .username::before
 {
-    content:       url(https://jaganmati.github.io/icons/hostpink.png);
+    content:       url(https://jaganmati.github.io/icons/coowner.png);
     position:      relative;
     top:           4px;
     padding-right: 2px;
@@ -68,7 +68,7 @@
 
 #chat .chat-main .isMod .username::before
 {
-    content:       url(https://jaganmati.github.io/icons/bouncer.png);
+    content:       url(https://jaganmati.github.io/icons/mod.png);
     position:      relative;
     top:           4px;
     padding-right: 2px;
