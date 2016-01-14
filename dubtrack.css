@@ -42,14 +42,6 @@
 }
 
 /* badges */
-#chat .chat-main .isOwner .username::before
-{
-    content:       url(https://jaganmati.github.io/icons/owner.png);
-    position:      relative;
-    top:           4px;
-    padding-right: 2px;
-}
-
 #chat .chat-main .isCo-owner .username::before
 {
     content:       url(https://jaganmati.github.io/icons/coowner.png);
@@ -93,6 +85,14 @@
 #chat .chat-main .user-568db2e30796401900fcfbb7 .username::before
 {
     content:       url(https://jaganmati.github.io/icons/bot.png);
+    position:      relative;
+    top:           4px;
+    padding-right: 2px;
+}
+
+#chat .chat-main .user-565c98e6628c441300ea25d7 .username::before
+{
+    content:       url(https://jaganmati.github.io/icons/owner.png);
     position:      relative;
     top:           4px;
     padding-right: 2px;
