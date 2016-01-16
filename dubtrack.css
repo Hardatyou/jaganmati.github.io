@@ -52,7 +52,7 @@
 
 #chat .chat-main .isManager .username::before
 {
-    content:       url(https://jaganmati.github.io/icons/manager.png);
+    content:       url(https://jaganmati.github.io/icons/manager.gif);
     position:      relative;
     top:           4px;
     padding-right: 2px;
